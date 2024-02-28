@@ -1,0 +1,6 @@
+[flake8]
+max-line-length = 109
+exclude =
+    .vscode,
+    env,
+    flake8_rapport

@@ -1,0 +1,9 @@
+# Fichiers de cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Fichiers de cache spécifiques à l'environnement virtuel
+venv/
+env/
+
