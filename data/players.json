@@ -33,5 +33,26 @@
         "last_name": "Lastname",
         "birth_date": "30/03/2001",
         "national_chess_id": "AB12345"
+    },
+    {
+        "id": 6,
+        "first_name": "Firstname",
+        "last_name": "Lastname",
+        "birth_date": "30/03/2001",
+        "national_chess_id": "AB12345"
+    },
+    {
+        "id": 7,
+        "first_name": "Firstname",
+        "last_name": "Lastname",
+        "birth_date": "30/03/2001",
+        "national_chess_id": "AB12345"
+    },
+    {
+        "id": 8,
+        "first_name": "Firstname",
+        "last_name": "Lastname",
+        "birth_date": "30/03/2001",
+        "national_chess_id": "AB12345"
     }
 ]
